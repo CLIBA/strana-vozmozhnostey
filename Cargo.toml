@@ -3,6 +3,7 @@ name = "strana"
 version = "0.1.0"
 edition = "2024"
 description = "Rust + Bevy port of «Страна возможностей» (e^cha, 2014). Needs the original data.win."
+license = "GPL-3.0-or-later"
 publish = false
 
 [dependencies]
